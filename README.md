@@ -14,7 +14,6 @@ virtual_calculator/
 ├── main.py                # Main Python file for the virtual calculator
 ├── requirements.txt       # List of dependencies to install
 ├── README.md              # Project documentation (this file)
-└── screenshots/           # Folder for project screenshots
 ```
 
 ## 📝 How to Run
