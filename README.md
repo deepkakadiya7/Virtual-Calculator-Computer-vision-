@@ -62,4 +62,4 @@ Feel free to fork this repository, submit issues, or create pull requests.
 This project is open-source under the [MIT License](LICENSE).
 
 ---
-Made with ❤️ by **Deep Kakadiya**
+Made with ❤️ by **Deep Kakadiya & Dhairya Isotiya**
